@@ -43,3 +43,5 @@ Based on my pinned projects, the languages I have been working with include:
 
 -   **Java**
 -   **Python**
+-   **SQL Server**
+-   **Postgresql**
