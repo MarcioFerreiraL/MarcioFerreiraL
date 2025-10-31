@@ -19,11 +19,11 @@ I am an undergraduate student in **Software Engineering** and also a **Technicia
 
 Here are some selected projects that highlight my recent work and skills:
 
-1.  **[Sistema-Hotelaria-Java](https://github.com/MarcioFerreiraL/sistema-hotelaria-java)**
+1.  **[sistema-hotelaria](https://github.com/MarcioFerreiraL/sistema-hotelaria-java)**
     - Description: My project for the Programming II course, a hotel management system in Java using Object-Oriented (OO) concepts.
     - Language: `Java`
 
-2.  **[programacao-iii](https://github.com/MarcioFerreiraL/sistema-assistencia-tecnica)**
+2.  **[sistema-assistencia-tecnica](https://github.com/MarcioFerreiraL/sistema-assistencia-tecnica)**
     - Description: Repository for project for technical support using design patterns, Spring Boot Data JPA.
     - Language: `Java`
 
