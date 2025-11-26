@@ -37,3 +37,4 @@ Based on my pinned projects, the languages I have been working with include:
 -   **Python**
 -   **SQL Server**
 -   **Postgresql**
+-   **Vue.js**
