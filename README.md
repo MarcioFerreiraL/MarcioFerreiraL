@@ -24,8 +24,8 @@ Here are some selected projects that highlight my recent work and skills:
     - Language: `Java`
 
 2.  **[sistema-assistencia-tecnica](https://github.com/MarcioFerreiraL/sistema-assistencia-tecnica)**
-    - Description: Repository for project for technical support using design patterns, Spring Boot Data JPA.
-    - Language: `Java`
+    - **Description:** A comprehensive **Full Stack** Technical Support Management System. This project distinguishes itself through a robust **Software Engineering** approach, applying **GoF Design Patterns** to handle complex business logic. It implements the **State Pattern** to enforce a secure state machine for the Service Order lifecycle and the **Template Method Pattern** to standardize polymorphic technical repair workflows across different equipment types.
+    - **Tech Stack:** `Java 21` (Spring Boot 3), `PostgreSQL`, `Vue.js 3`, `Vite`.
 
 ---
 
