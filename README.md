@@ -17,9 +17,6 @@
   <a href="mailto:contactmarcioflima@gmail.com"><img src="https://img.shields.io/badge/E--mail-contato-194CB3?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarcioFerreiraL&label=visitas&color=6231C4&style=flat-square" alt="Visitas ao perfil" />
-</p>
 
 ## 👨‍💻 Sobre mim
 
@@ -44,8 +41,8 @@ procurando: estágio em Backend, DevOps ou Infraestrutura
     <td align="center" width="140"><b>Backend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,python,postgres&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=java,spring,python,postgres&theme=light" alt="Java, Spring Boot, Python, PostgreSQL" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpython%2Cpostgres&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cpython%2Cpostgres&theme=light" alt="Java, Spring Boot, Python, PostgreSQL" />
       </picture>
     </td>
   </tr>
@@ -53,8 +50,8 @@ procurando: estágio em Backend, DevOps ou Infraestrutura
     <td align="center"><b>DevOps &amp; nuvem</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,linux,bash,cloudflare,git&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,bash,cloudflare,git&theme=light" alt="Docker, GitHub Actions, Linux, Bash, Cloudflare, Git" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Clinux%2Cbash%2Ccloudflare%2Cgit&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=docker%2Cgithubactions%2Clinux%2Cbash%2Ccloudflare%2Cgit&theme=light" alt="Docker, GitHub Actions, Linux, Bash, Cloudflare, Git" />
       </picture>
     </td>
   </tr>
@@ -73,8 +70,8 @@ procurando: estágio em Backend, DevOps ou Infraestrutura
     <td align="center"><b>Também uso</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,kotlin,astro,ts&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=flutter,kotlin,astro,ts&theme=light" alt="Flutter, Kotlin, Astro, TypeScript" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Ckotlin%2Castro%2Cts&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=flutter%2Ckotlin%2Castro%2Cts&theme=light" alt="Flutter, Kotlin, Astro, TypeScript" />
       </picture>
     </td>
   </tr>
