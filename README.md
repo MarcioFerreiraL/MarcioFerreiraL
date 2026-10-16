@@ -158,8 +158,8 @@ procurando: estágio em Backend, DevOps ou Infraestrutura
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MarcioFerreiraL&show_icons=true&hide_border=true&bg_color=15130F&title_color=B797F7&icon_color=7BA3F4&text_color=EEEAE2&locale=pt-br" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarcioFerreiraL&show_icons=true&hide_border=true&bg_color=F9F6F1&title_color=6231C4&icon_color=194CB3&text_color=1E1B15&locale=pt-br" alt="Estatísticas do GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MarcioFerreiraL&show_icons=true&hide_rank=true&hide_border=true&bg_color=15130F&title_color=B797F7&icon_color=7BA3F4&text_color=EEEAE2&locale=pt-br" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarcioFerreiraL&show_icons=true&hide_rank=true&hide_border=true&bg_color=F9F6F1&title_color=6231C4&icon_color=194CB3&text_color=1E1B15&locale=pt-br" alt="Estatísticas do GitHub" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MarcioFerreiraL&hide_border=true&background=15130F&ring=B797F7&fire=CAAD72&currStreakLabel=B797F7&sideLabels=EEEAE2&currStreakNum=EEEAE2&sideNums=EEEAE2&dates=B1ABA0&stroke=3A352C&locale=pt_BR" />
