@@ -1,3 +1,4 @@
+# Cores: azul 212° (o do GitHub) nos quadrados, roxo 252° (análogo) na cobra.
 name: Animação de contribuições
 
 on:
@@ -19,8 +20,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#6231C4&color_dots=#ebedf0,#d9cdf6,#b49cec,#8a69dc,#6231C4
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#B797F7&color_dots=#161b22,#33275a,#553d9e,#8466d6,#B797F7
+            dist/github-snake.svg?color_snake=#5739D0&color_dots=#ebedf0,#b6d4f5,#6fa8ec,#2f7ee0,#0969DA
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#A18CF8&color_dots=#151b23,#163a63,#1f5aa3,#3277d6,#4493F8
 
       - uses: crazy-max/ghaction-github-pages@v5
         with:
