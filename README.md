@@ -83,7 +83,7 @@ procurando: estágio em Backend, DevOps ou Infraestrutura
   <tr>
     <td width="50%" valign="top">
       <h3>🩺 <a href="https://marciodev.com/projetos/clinics">Clinics</a></h3>
-      Comparador de preços de exames em Surubim-PE: API em camadas (controller → service → repository) com <b>154 testes</b>, CI/CD e deploy numa VPS Oracle atrás de Cloudflare Tunnel, mais app em Flutter.
+      Comparador de preços de exames em Surubim-PE: API em camadas (controller → service → repository) com <b>mais de 250 testes</b>, CI/CD e deploy numa VPS Oracle atrás de Cloudflare Tunnel, mais app em Flutter.
       <br /><br />
       <code>Spring Boot</code> <code>PostgreSQL</code> <code>Flutter</code> <code>Docker</code> <code>CI/CD</code>
       <br /><br />
