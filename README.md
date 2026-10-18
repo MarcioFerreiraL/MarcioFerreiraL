@@ -14,7 +14,7 @@
   <a href="https://marciodev.com/curriculo-pt.pdf"><img src="https://img.shields.io/badge/Currículo-PDF-A56A27?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo em PDF" /></a>
   <a href="https://marciodev.com/curriculo-en.pdf"><img src="https://img.shields.io/badge/Resume-EN-A56A27?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download résumé in English" /></a>
   <a href="https://www.linkedin.com/in/marcioflima/"><img src="https://img.shields.io/badge/LinkedIn-marcioflima-176FD3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:contactmarcioflima@gmail.com"><img src="https://img.shields.io/badge/E--mail-contato-176FD3?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="mailto:contato@marciodev.com"><img src="https://img.shields.io/badge/E--mail-contato@marciodev.com-176FD3?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik00IDVoMTZhMSAxIDAgMCAxIDEgMXYxMmExIDEgMCAwIDEtMSAxSDRhMSAxIDAgMCAxLTEtMVY2YTEgMSAwIDAgMSAxLTFabS0xIDEgOSA3IDktNyIvPjwvc3ZnPg==" alt="E-mail" /></a>
 </p>
 
 
@@ -148,7 +148,7 @@ procurando: estágio em Backend, DevOps ou Infraestrutura
 
 ## 📫 Vamos conversar
 
-Estou buscando **estágio em Backend, DevOps ou Infraestrutura**. Se quiser conversar sobre uma vaga ou um projeto, me chame por [e-mail](mailto:contactmarcioflima@gmail.com) ou no [LinkedIn](https://www.linkedin.com/in/marcioflima/).
+Estou buscando **estágio em Backend, DevOps ou Infraestrutura**. Se quiser conversar sobre uma vaga ou um projeto, me chame por [e-mail](mailto:contato@marciodev.com) ou no [LinkedIn](https://www.linkedin.com/in/marcioflima/).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:644ACF,100:176FD3&height=110&section=footer" alt="" width="100%" />
