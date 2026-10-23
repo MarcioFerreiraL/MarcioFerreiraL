@@ -95,7 +95,7 @@ procurando: estágio em Backend, DevOps ou Infraestrutura
       <br /><br />
       <code>Spring Boot</code> <code>JWT</code> <code>Next.js</code> <code>Docker</code> <code>GitHub Actions</code>
       <br /><br />
-      <a href="https://github.com/MarcioFerreiraL/sistema-barbearia">Código</a> · <a href="https://sistema-barbearia-black.vercel.app">Demo</a> · <a href="https://marciodev.com/projetos/barbearia">Estudo de caso</a>
+      <a href="https://github.com/MarcioFerreiraL/sistema-barbearia">Código</a> · <a href="https://barbearia.marciodev.com">Demo</a> · <a href="https://marciodev.com/projetos/barbearia">Estudo de caso</a>
     </td>
   </tr>
   <tr>
