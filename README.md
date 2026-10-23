@@ -105,7 +105,7 @@ procurando: estágio em Backend, DevOps ou Infraestrutura
       <br /><br />
       <code>Spring Boot</code> <code>Vue.js</code> <code>PostgreSQL</code> <code>Padrões GoF</code>
       <br /><br />
-      <a href="https://github.com/MarcioFerreiraL/sistema-assistencia-tecnica">Código</a> · <a href="https://marciodev.com/projetos/assistencia-tecnica">Estudo de caso</a>
+      <a href="https://github.com/MarcioFerreiraL/sistema-assistencia-tecnica">Código</a> · <a href="https://assistencia.marciodev.com">Demo</a> · <a href="https://marciodev.com/projetos/assistencia-tecnica">Estudo de caso</a>
     </td>
     <td width="50%" valign="top">
       <h3>🕶️ <a href="https://marciodev.com/projetos/urbansense">UrbanSense</a></h3>
